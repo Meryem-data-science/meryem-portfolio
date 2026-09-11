@@ -4,8 +4,8 @@ const cvHeader = document.getElementById("cvHeader");
 const progress = document.getElementById("progress");
 
 const cvPaths = {
-  fr: "output/pdf/CV_Meryem_El_Mustad_FR.pdf?v=2",
-  en: "output/pdf/Resume_Meryem_El_Mustad_EN.pdf?v=2"
+  fr: "output/pdf/CV_Meryem_El_Mustad_FR.pdf?v=3",
+  en: "output/pdf/Resume_Meryem_El_Mustad_EN.pdf?v=3"
 };
 
 function setLanguage(language) {
